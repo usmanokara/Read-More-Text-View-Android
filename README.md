@@ -2,7 +2,7 @@
 [![](https://jitpack.io/v/usmanokara/Read-More-Text-View-Android.svg)](https://jitpack.io/#usmanokara/Read-More-Text-View-Android)
 
 # How to
-# To get a Git project into your build:
+To get a Git project into your build:
 
 # Step 1. Add the JitPack repository to your build file
 
