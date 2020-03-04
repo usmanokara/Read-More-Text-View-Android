@@ -6,15 +6,16 @@
 
 # Step 1. Add the JitPack repository to your build file
 
-allprojects {
+```java allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
-  
+  ```
 # Step 2. Add the dependency
-  
+```java  
 dependencies {
 	        implementation 'com.github.usmanokara:Read-More-Text-View-Android:Tag'
 	}
+```
